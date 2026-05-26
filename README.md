@@ -1,2 +1,2 @@
 # FreeCodeCamp
-Micro-Projects
+Micro-Projects and soltions
